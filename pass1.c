@@ -1,4 +1,3 @@
-
 #include<stdio.h>
 #include<string.h>
 struct estab
@@ -8,7 +7,6 @@ struct estab
   int address;
   int length;
 }es[20];
-
 void main()
 {
 	char input[10],name[10],symbol[10],ch;
